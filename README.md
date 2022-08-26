@@ -1,6 +1,8 @@
-# Plantuml Install
+<p align="center">
+  <img src="https://github.com/jfelipearaujo/plantuml-install/blob/main/assets/PlantUML.png"/>
+</p>
 
-### Install on Ubuntu
+### Plantuml Install on Ubuntu
 
 ``` sh
 # Prerequisites: "curl"
