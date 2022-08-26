@@ -8,7 +8,7 @@
 sudo bash -c "curl -L https://raw.githubusercontent.com/jfelipearaujo/plantuml-install/main/plantuml-install-ubuntu.sh | bash"
 ```
 
-NOTE: The command has to be run as `root`.
+NOTE: The command has to be run as `root` or `sudo`.
 
 After that, I recommend this VS Code extension: https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml
 
