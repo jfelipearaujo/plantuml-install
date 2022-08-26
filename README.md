@@ -14,4 +14,4 @@ NOTE: The command has to be run as `root` or `sudo`.
 
 After that, I recommend this VS Code extension [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml).
 
-To test, open an *.puml file and press Alt+D to see the preview :)
+To test, open a *.puml file and press Alt+D to see the preview :)
