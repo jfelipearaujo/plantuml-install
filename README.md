@@ -10,6 +10,6 @@ sudo bash -c "curl -L https://raw.githubusercontent.com/jfelipearaujo/plantuml-i
 
 NOTE: The command has to be run as `root` or `sudo`.
 
-After that, I recommend this VS Code extension: https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml
+After that, I recommend this VS Code extension [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml).
 
 To test, open an *.puml file and press Alt+D to see the preview :)
